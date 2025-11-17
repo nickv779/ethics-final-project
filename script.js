@@ -28,7 +28,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
       // Simple fake submission handler
       statusEl.hidden = false;
-      statusEl.textContent = "Thank you for reaching out! Well be in touch soon.";
+      statusEl.textContent = "Thank you for reaching out! We'll be in touch soon.";
 
       // Reset form fields after a short delay
       setTimeout(() => {
